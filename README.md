@@ -1,6 +1,5 @@
-<br> EVDBMS 
+<br> ELECTRIC-VEHICLE-MANAGEMANET-SYSTEM
 <hr>
 <ul>
-<li>This is a electric vehicle database management system</li>
 <Li>Author- M Harshavardhan</Li>
 </ul>
